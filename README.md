@@ -36,6 +36,7 @@ This repository serves as a central place for all my Python learning and college
 ## 🛠️ Technologies Used
 
 * Python 3
+* Spyder(Anaconda)
 * Jupyter Notebook
 * Visual Studio Code
 * Git & GitHub
